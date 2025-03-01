@@ -1,2 +1,35 @@
 /* style.css */
 
+* {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+.list{
+    border: 2px solid white;
+}
+
+/*
+.list {
+    border-width: 2px;
+    border-color: white;
+    border-style: solid;
+}
+*/
+
+h3 {
+    border: 2px solid white;
+}
+
+/*
+h3 {
+    border-width: 2px;
+    border-color: white;
+    border-style: solid;
+    border-right: ;
+}
+*/
